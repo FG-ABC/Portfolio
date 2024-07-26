@@ -1,0 +1,25 @@
+/*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=ffffff&c2=bbbdb8&gt=l&gd=dcr
+*/
+.gradient {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    270deg,
+    rgba(255, 255, 255, 1) 62%,
+    rgba(186, 186, 185, 1) 100%
+  );
+  background-opacity: 1;
+}
+
+/* @media (max-width: 768px) {
+  .gradient {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 1) 62%,
+      rgba(186, 186, 185, 1) 100%
+    );
+    background-opacity: 1;
+  }
+} */

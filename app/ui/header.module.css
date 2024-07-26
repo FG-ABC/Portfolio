@@ -1,0 +1,4 @@
+.navbar {
+  transition: 0.75s;
+  transition-timing-function: ease-in-out;
+}
